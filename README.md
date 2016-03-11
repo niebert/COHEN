@@ -19,5 +19,5 @@ Dr. Melanie Platz
 | 11 | CSIR | Council for Scientific and Industrial Research | South Africa |
 | -- | ----------- | ----------------------------- | ------- |
 
-#ä Open Proposal Management
+## Open Proposal Management
 This proposal was published on GitHub with AT6FUI Open Proposal Management (OPM) so that other communities of researchers and developers can build on the proposal for improvement of One Health Risk Mitigation. Special Thanks to all the participants mentioned above that agreed on OPM-publication of the proposal, that can be downloaded as ZIP-File.
