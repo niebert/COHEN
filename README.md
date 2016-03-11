@@ -2,8 +2,8 @@
 ## Head of Project 
 Dr. Melanie Platz
 
-| First Header  | Second Header |
-| ------------- | ------------- |
+| No | Participant | Participant organisation name | Country |
+| -- | ----------- | ----------------------------- | ------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
