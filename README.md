@@ -1,6 +1,6 @@
 # COHEN
 ## Head of Project 
-Dr. Melanie Platz
+Dr. Melanie Platz (University Koblenz-Landau)
 
 
 ## List of Participants 
@@ -23,3 +23,5 @@ Dr. Melanie Platz
 
 ## Open Proposal Management
 This proposal was published on GitHub with AT6FUI Open Proposal Management (OPM) so that other communities of researchers and developers can build on the proposal for improvement of One Health Risk Mitigation. Special Thanks to all the participants mentioned above that agreed on OPM-publication of the proposal, that can be downloaded as ZIP-File.
+
+* http://at6fui.weebly.com/open-proposal-management.html
