@@ -2,16 +2,19 @@
 ## Head of Project 
 Dr. Melanie Platz
 
-| No | Participant | Participant organisation name | Country |
-| -- | ----------- | ----------------------------- | ------- |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 
 ## List ofParticipants 
+
+| No  | Participant |
+| ------------- | ------------- |
+| 1  | Content Cell  |
+| 2  | Content Cell  |
+
 
 | No | Participant | Participant organisation name | Country |
 | -- | ----------- | ----------------------------- | ------- |
 | 1  | Uni KO-LD (Coordinator) | Universität Koblenz - Landau | Germany |
-| 2  | IKT | SENECT/IKT Technology - Geißler & Mäck GbR (SME) | Germany |
+| 2  | IKT | SENECT/IKT Technology - Geißler and Mäck GbR (SME) | Germany |
 | 3  | UKL-HD | UniversitätsKlinikum Heidelberg | Germany |
 | 4  | DLR |  Deutsches Zentrum für Luft- und Raumfahrt | Germany |
 | 5  | DIEHL | DIEHL Defence (Logistics Optimisation) | Germany |
