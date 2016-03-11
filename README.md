@@ -5,8 +5,8 @@ Dr. Melanie Platz
 
 ## List ofParticipants 
 
-| No  | Participant | Participant organisation name | Country 
-| ------------- | ------------- | ------------- |
+| No  | Participant | Participant organisation name | Country |
+| ------------- | ------------- | ------------- | ------------- |
 | 1  | Content Cell  | Content Cell  | Content Cell  |
 | 2  | Content Cell  | Content Cell  | Content Cell  |
 
