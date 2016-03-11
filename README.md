@@ -1,7 +1,11 @@
 # COHEN
+Citizen Observatory for Health and ENvironment
+
 ## Head of Project 
 Dr. Melanie Platz (University Koblenz-Landau)
 
+## EU Call for Citizen Observatories
+Horizon 2020
 
 ## List of Participants 
 
