@@ -1,13 +1,13 @@
 # COHEN
 Citizen Observatory for Health and ENvironment
 
-## Head of Project 
+## Head of Project
 Dr. Melanie Platz (University Koblenz-Landau)
 
 ## EU Call for Citizen Observatories
 Horizon 2020
 
-## List of Participants 
+## List of Participants
 
 | No  | Participant | Participant organisation name | Country |
 | ------------- | ------------- | ------------- | ------------- |
@@ -29,3 +29,4 @@ Horizon 2020
 This proposal was published on GitHub with AT6FUI Open Proposal Management (OPM) so that other communities of researchers and developers can build on the proposal for improvement of One Health Risk Mitigation. Special Thanks to all the participants mentioned above that agreed on OPM-publication of the proposal, that can be downloaded as ZIP-File.
 
 * http://at6fui.weebly.com/open-proposal-management.html
+* [https://en.wikiversity.org/wiki/Open_Community_Approach/Open_Proposal_Management#Learning_Task](Wikiversity: Open Proposal Management)
